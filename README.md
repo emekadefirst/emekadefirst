@@ -17,9 +17,9 @@
 
 > *"Building digital solutions with precision and creativity."*
 
-I'm a passionate developer focused on crafting elegant solutions to complex problems. Currently enhancing my skills in Rust while maintaining expertise in JavaScript, Python, and Go ecosystems.
+I'm a passionate developer focused on crafting elegant solutions to complex problems. Currently working on myself while maintaining expertise in JavaScript, Python, and Go ecosystems.
 
-- 🌱 **Currently exploring:** Advanced concepts in Rust programming
+- 🌱 **Currently improving:** My skills across various technologies
 - 🔍 **Seeking:** Collaborative opportunities in JS, Python (Django, Flask, FastAPI), or REST API projects
 - 🌐 **Portfolio:** [emekadefirst.carrd.co](https://emekadefirst.carrd.co)
 
@@ -35,20 +35,23 @@ I'm a passionate developer focused on crafting elegant solutions to complex prob
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Data & Tools
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -80,6 +83,7 @@ I'm a passionate developer focused on crafting elegant solutions to complex prob
 
 [![Email](https://img.shields.io/badge/Email-emekadefirst@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emekadefirst@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348148374084)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-victorhibuogwu33-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhibuogwu33/)
 
 </div>
 
