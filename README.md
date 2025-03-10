@@ -66,12 +66,13 @@ I'm a passionate developer focused on crafting elegant solutions to complex prob
 
 ---
 
-## 🌟 Featured Projects
+---
 
 ## 📫 Get in Touch
 
 <div align="center">
 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Vikchukwuemeka)
 [![Email](https://img.shields.io/badge/Email-emekadefirst@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emekadefirst@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+2348148374084)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-victorhibuogwu33-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorhibuogwu33/)
