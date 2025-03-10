@@ -68,15 +68,6 @@ I'm a passionate developer focused on crafting elegant solutions to complex prob
 
 ## 🌟 Featured Projects
 
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=emekadefirst&repo=YourRepoName&theme=tokyonight)](https://github.com/emekadefirst/YourRepoName)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=emekadefirst&repo=AnotherRepo&theme=tokyonight)](https://github.com/emekadefirst/AnotherRepo)
-
-</div>
-
----
-
 ## 📫 Get in Touch
 
 <div align="center">
