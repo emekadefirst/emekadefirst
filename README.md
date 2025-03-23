@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Hello, World! I'm Emeka ✨
+# ✨ Whatsup CodeSquad! I'm Emeka ✨
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;API+Architect;Problem+Solver;Open-Source+Enthusiast)](https://git.io/typing-svg)
 
